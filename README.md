@@ -63,20 +63,22 @@ Point it at any public GitHub repo and it displays the README on your desk — l
 
 Open the project folder in VS Code with PlatformIO and click **Upload**.
 
-> For white-background displays, flash from the `INVERTEDrm` folder instead.
+> For white-background displays, flash from the `INVERTED` folders instead.
+> NOTE: THE COLOR SETTINGS IN THE AP DO NOT WORK CORRECTLY FOR THE INVERTED VERSION. I DID NOT TRY TO FIX. 
 
 ### 2. Configure via the setup portal
 
 On first boot the CYD starts a WiFi access point named **GithubRaw_Setup**.
 
 1. Connect your phone or laptop to **GithubRaw_Setup**
-2. Open a browser and go to **192.168.4.1**
-3. Fill in:
+2. A captive portal should open. If it does not, then go to step 3 with your mobile data turned off. 
+3. Open a browser and go to **192.168.4.1**
+4. Fill in:
    - **WiFi SSID** and **Password** (2.4 GHz only)
    - **GitHub Repo** — just `username/reponame`, e.g. `torvalds/linux`
    - **Text Color** — White, Green, Cyan, Yellow, Orange, Red, or 🌈 Rainbow
    - **Text Size** — Small, Medium, or Large
-4. Tap **Save & Connect**
+5. Tap **Save & Connect**
 
 > **To re-enter setup** on any boot: hold the BOOT button while powering on.
 
