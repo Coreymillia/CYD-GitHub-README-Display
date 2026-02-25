@@ -17,7 +17,7 @@ Markdown is automatically stripped so the text reads cleanly as plain paragraphs
 
 ## What It Does
 
-Point it at any public GitHub repo and it displays the README on your desk — live. Edit the README on GitHub, commit, and the device picks up the change automatically. It even reads its own README.
+Point it at any public GitHub repo and it displays the README on your desk — live. Edit the README on GitHub, commit, and the device picks up the change automatically. 
 
 ### What can you use it for?
 
@@ -106,6 +106,7 @@ The bottom bar always shows `< prev  next >  hold=refetch` and a UTC clock.
 | **Medium** | Balanced size and readability |
 | **Large** | Easy to read from a distance |
 | **🌈 Rainbow** | Each line a different color — cycles through cyan, green, yellow, orange, red, magenta, white |
+| **Color Select** Select any color above. Does not display the correct colors in inverted version. 
 
 Markdown is stripped automatically: headers, bold, italic, links (text kept, URL removed), images removed, code fences removed, HTML tags stripped.
 
