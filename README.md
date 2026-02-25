@@ -10,7 +10,7 @@ Markdown is automatically stripped so the text reads cleanly as plain paragraphs
 
 | | |
 |---|---|
-| ![Displaying its own README in rainbow mode](../include/IMG_20260225_154925.jpg) | ![README content in large font with navigation bar](../include/IMG_20260225_155046.jpg) |
+| ![Displaying its own README in rainbow mode](include/IMG_20260225_154925.jpg) | ![README content in large font with navigation bar](include/IMG_20260225_155046.jpg) |
 | *Rainbow mode — reading its own GitHub README, small font* | *Large font — status bar shows active repo, navigation hints at bottom* |
 
 ---
